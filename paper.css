@@ -6,7 +6,7 @@
   border-bottom-right-radius: 6px;
   margin-left: auto;
   margin-right: auto;
-  top: 150px;
+  top: 220px;
   background-color: #d9534f;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
@@ -208,6 +208,7 @@ body {
 
 .reset {
   text-align: center;
+  margin-top: 80px;
 }
 
 .reset button {
